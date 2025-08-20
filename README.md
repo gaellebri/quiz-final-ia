@@ -59,15 +59,6 @@ Ce quiz final évalue les connaissances acquises lors des 3 sessions du module I
 - Design responsive
 - Compatible avec tous les navigateurs modernes
 
-## Différences avec le QCM Session 1
-
-- 50 questions au lieu de 30
-- 25 minutes au lieu de 15
-- Questions organisées par parties (pas de mélange)
-- Support des questions à réponses multiples
-- Résultats détaillés par partie
-- Clés de stockage séparées pour éviter les conflits
-
 ## Structure des fichiers
 quiz-final-ia/
 ├── index.html          # Page d'accueil du quiz
