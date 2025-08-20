@@ -1,10 +1,10 @@
 # Quiz Final Intelligence Artificielle
 
-Plateforme de quiz interactif pour le TD "Démystifier l'IA" - Session 3 - IUT de Roanne
+Plateforme de quiz interactif pour le TD Intelligence Artificielle - IUT de Roanne
 
 ## Description
 
-Ce quiz final évalue les connaissances acquises lors des 3 sessions du module IA, avec un focus particulier sur "L'IA dans la société et l'entreprise".
+Ce quiz final évalue les connaissances acquises lors du module IA à travers 50 questions réparties en 5 parties thématiques.
 
 ## Fonctionnalités
 
@@ -59,15 +59,6 @@ Ce quiz final évalue les connaissances acquises lors des 3 sessions du module I
 - Design responsive
 - Compatible avec tous les navigateurs modernes
 
-## Différences avec le QCM Session 1
-
-- 50 questions au lieu de 30
-- 25 minutes au lieu de 15
-- Questions organisées par parties (pas de mélange)
-- Support des questions à réponses multiples
-- Résultats détaillés par partie
-- Clés de stockage séparées pour éviter les conflits
-
 ## Structure des fichiers
 quiz-final-ia/
 ├── index.html          # Page d'accueil du quiz
@@ -75,9 +66,8 @@ quiz-final-ia/
 ├── questions.json      # Base de données des 50 questions
 ├── results.html        # Interface d'administration
 ├── admin.js           # Logique de l'administration
-├── style.css          # Styles (partagé avec session 1)
+├── style.css          # Styles
 └── README.md          # Ce fichier
-
 ## Données stockées
 
 - Informations étudiant (nom, prénom, groupe)
